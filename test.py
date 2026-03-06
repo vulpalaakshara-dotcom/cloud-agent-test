@@ -1,2 +1,2 @@
 print("Hello, World!")
-print("testing-Automation-Agent")
+print("testing")
